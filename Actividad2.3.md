@@ -33,3 +33,13 @@ LOG F :
 ¿Qué imprimirá la consola? :Imprimirá Log F ¡ERROR CATÁSTROFICO!
 
 Justificación Teórica: Ya que el precio también tiene ámbito de bloque y porque se encuentra en el TDZ al ser un let y llamarse antes de crearla; si fuese un var sería undefined. 
+
+
+
+Tareas 2 y 3: Verificación y Conclusión
+
+1. Comprobación:
+
+<img width="1302" height="223" alt="image" src="https://github.com/user-attachments/assets/55c735db-739a-4406-a007-d4f9e59cc94b" />
+
+2. Conclusión Crítica: Usar var es peligroso porque ignora el alcance de bloque, permitiendo reescrituras y accesos indebidos como en los Logs A, D y E, lo que genera errores impredecibles y compromete la estabilidad del código.
