@@ -1,5 +1,5 @@
 function procesarDatos(datos, callback) {
-    callback(dat);
+    callback(datos);
 }
  
 procesarDatos([1,2,3], function(d) {
