@@ -45,3 +45,15 @@ Corrige el código para que funcione como se espera.
 - en este caso a la funcion de hace falta el metodo return, el cual si esta en el codigo pero aparece comentado.
 
 <img width="372" height="226" alt="image" src="https://github.com/user-attachments/assets/e003179f-6172-4e71-a0fe-b36341b6eaf0" />
+
+Ejercicio 4: Names, names...
+
+Enunciado:
+
+El objetivo es mostrar un saludo personalizado, pero se produce un error al ejecutar el programa.
+
+Añade un breakpoint en la línea del console.log.
+Comprueba qué variables están disponibles en ese momento.
+Identifica la causa del error y corrige el código.
+
+- En este ejercicio la variable name no existe, por lo que o se tendria que declarar o sustituir por nombre (opción correcta).
