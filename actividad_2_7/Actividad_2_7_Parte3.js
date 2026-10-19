@@ -1,6 +1,6 @@
 function multiplicar(a, b) {
     let ofthejedi= a * b;
-    // return ofthejedi;
+     return ofthejedi;
 }
  
 let total = multiplicar(3, 4);
