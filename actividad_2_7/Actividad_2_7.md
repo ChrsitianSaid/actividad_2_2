@@ -86,6 +86,9 @@ Inspecciona el valor de num % 2 usando una expresión.
 Averigua por qué el resultado siempre es el mismo.
 Corrige el error.
 
-- Aquí el fallo viene en que la condicion dentro del if deberia de estar entre parentesis "if ((num % 2) = 0)" cumpliendo asi las reglas matematicas donde primero se cumplen los parentesis 
+- Aquí el fallo viene en que la condicion dentro del if deberia de estar entre parentesis "if ((num % 2) = 0)" cumpliendo asi las reglas matematicas donde primero se cumplen los parentesis.
+
+<img width="328" height="248" alt="image" src="https://github.com/user-attachments/assets/40e2331f-2df2-4333-89ca-bcddc5bf5d79" />
+
 
 
