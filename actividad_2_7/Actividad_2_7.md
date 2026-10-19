@@ -57,3 +57,6 @@ Comprueba qué variables están disponibles en ese momento.
 Identifica la causa del error y corrige el código.
 
 - En este ejercicio la variable name no existe, por lo que o se tendria que declarar o sustituir por nombre (opción correcta).
+
+<img width="865" height="200" alt="image" src="https://github.com/user-attachments/assets/78f7b832-03cf-4aeb-a1bc-228c9aded966" />
+
