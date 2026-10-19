@@ -60,3 +60,16 @@ Identifica la causa del error y corrige el código.
 
 <img width="865" height="200" alt="image" src="https://github.com/user-attachments/assets/78f7b832-03cf-4aeb-a1bc-228c9aded966" />
 
+Ejercicio 5: Out of control
+
+Enunciado:
+
+Este código intenta sumar todos los elementos de un array, pero algo sale mal.
+
+Coloca un breakpoint en la línea dentro del bucle.
+Usa Step Over (F10) para recorrer cada iteración.
+Observa los valores de i y suma.
+Identifica el error y corrígelo.
+
+-en el ejercicio 5 el error es un <= dentro del bucle for, cuando deberia de ser <.
+
