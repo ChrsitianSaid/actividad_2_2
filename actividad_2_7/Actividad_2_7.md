@@ -90,5 +90,17 @@ Corrige el error.
 
 <img width="328" height="248" alt="image" src="https://github.com/user-attachments/assets/40e2331f-2df2-4333-89ca-bcddc5bf5d79" />
 
+Ejercicio 7: Callback defectuoso.
+
+Enunciado:
+
+El programa debería mostrar los datos recibidos, pero lanza un error al ejecutar.
+
+Coloca un breakpoint en la línea callback(dat);.
+Observa qué variables existen en ese punto.
+Usa Step Into (F11) para entrar en la función callback y detectar la causa del fallo.
+
+- error sintactico en vez de poner "callback(datos)" esta puesto "callback(dat)".
+
 
 
