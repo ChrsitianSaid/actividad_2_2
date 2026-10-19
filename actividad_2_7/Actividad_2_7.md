@@ -117,6 +117,9 @@ Corrige el código.
 
 - es un erro de sintaxis, en el codigo esta "console.log(msj)" cuando deberia de ser "console.log(msg)".
 
+<img width="561" height="385" alt="image" src="https://github.com/user-attachments/assets/b8f6a54d-2726-4fed-aa32-67f717ab9f53" />
+
+
 
 
 
