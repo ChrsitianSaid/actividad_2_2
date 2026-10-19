@@ -102,5 +102,8 @@ Usa Step Into (F11) para entrar en la función callback y detectar la causa del 
 
 - error sintactico en vez de poner "callback(datos)" esta puesto "callback(dat)".
 
+<img width="453" height="244" alt="image" src="https://github.com/user-attachments/assets/e259d220-a3bd-4090-8bd7-e7917ae8b418" />
+
+
 
 
