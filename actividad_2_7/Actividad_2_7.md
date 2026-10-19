@@ -104,6 +104,19 @@ Usa Step Into (F11) para entrar en la función callback y detectar la causa del 
 
 <img width="453" height="244" alt="image" src="https://github.com/user-attachments/assets/e259d220-a3bd-4090-8bd7-e7917ae8b418" />
 
+Ejercicio 8: Evento click sospechoso (HTML + JS).
+
+Enunciado:
+
+Al hacer clic en el botón debería aparecer un mensaje en consola, pero se produce un error.
+
+Abre la depuración en VS Code con Chrome o Edge.
+Coloca un breakpoint donde creas que será útil.
+Observa qué variable causa el error.
+Corrige el código.
+
+- es un erro de sintaxis, en el codigo esta "console.log(msj)" cuando deberia de ser "console.log(msg)".
+
 
 
 
