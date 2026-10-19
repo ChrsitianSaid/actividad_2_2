@@ -1,8 +1,10 @@
-let numeros = [1, 2, 3, 4];
-let suma = 0;
- 
-for (let i = 0; i < numeros.length; i++) {
-    suma += numeros[i];
+function esPar(num) {
+    if ((num % 2) = 0) {
+        return true;
+    } else {
+        return false;
+    }
 }
  
-console.log("Suma total: " + suma);
+console.log(esPar(3));
+console.log(esPar(4));
