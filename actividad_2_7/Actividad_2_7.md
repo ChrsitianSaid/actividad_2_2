@@ -75,4 +75,17 @@ Identifica el error y corrígelo.
 
 <img width="846" height="502" alt="image" src="https://github.com/user-attachments/assets/224d5d77-1b26-4c5f-95cc-739c29f05c1a" />
 
+Ejercicio 6: Usando expresiones.
+
+Enunciado:
+
+Esta función debería devolver true si el número es par, false si es impar.
+
+Coloca un breakpoint en la línea del if.
+Inspecciona el valor de num % 2 usando una expresión.
+Averigua por qué el resultado siempre es el mismo.
+Corrige el error.
+
+
+
 
