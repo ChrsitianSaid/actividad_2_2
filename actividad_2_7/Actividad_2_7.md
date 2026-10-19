@@ -17,7 +17,7 @@ Enunciado:
 <img width="412" height="103" alt="image" src="https://github.com/user-attachments/assets/5ae795ea-33de-4a16-8f85-3c38191e5b44" />
 
 
-Ejercicio 2: Comparaciones sospechosas.
+<br> Ejercicio 2: Comparaciones sospechosas.
 
 Enunciado:
 
