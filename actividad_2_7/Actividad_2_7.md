@@ -43,3 +43,5 @@ Observa qué ocurre con la variable resultado y con la llamada desde console.log
 Corrige el código para que funcione como se espera.
 
 - en este caso a la funcion de hace falta el metodo return, el cual si esta en el codigo pero aparece comentado.
+
+<img width="372" height="226" alt="image" src="https://github.com/user-attachments/assets/e003179f-6172-4e71-a0fe-b36341b6eaf0" />
