@@ -12,3 +12,12 @@ Enunciado:
 
 <img width="346" height="90" alt="image" src="https://github.com/user-attachments/assets/ef34365d-3794-4b49-98e8-fc7fa25e7a6d" />
 
+Ejercicio 2: Comparaciones sospechosas.
+
+Enunciado:
+
+El programa debe indicar si alguien es mayor o menor de edad.
+
+Coloca un breakpoint en la línea del if.
+Comprueba el valor de la condición y determina por qué siempre se ejecuta la misma rama aunque cambies el valor de edad.
+Corrige el error lógico.

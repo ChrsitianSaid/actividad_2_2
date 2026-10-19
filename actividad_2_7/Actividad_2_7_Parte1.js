@@ -1,4 +1,4 @@
 let a = 5;
 let b = 10;
 let result = a + b;
-console.log("Resultado es: " + reslt);
+console.log("Resultado es: " + result);
