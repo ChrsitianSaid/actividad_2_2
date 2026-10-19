@@ -28,3 +28,4 @@ Enunciado:
 -Corrige el error lógico.
 
 -El error esta en el if: que esta puesto edad=<18 cuando deberia de ser edad>=18
+<img width="394" height="190" alt="image" src="https://github.com/user-attachments/assets/49473336-6d7f-433b-b9f5-d3bab568afa6" />
