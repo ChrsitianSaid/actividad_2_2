@@ -21,8 +21,8 @@ Enunciado:
 
 Enunciado:
 
-El programa debe indicar si alguien es mayor o menor de edad.
+-El programa debe indicar si alguien es mayor o menor de edad.
 
-Coloca un breakpoint en la línea del if.
-Comprueba el valor de la condición y determina por qué siempre se ejecuta la misma rama aunque cambies el valor de edad.
-Corrige el error lógico.
+-Coloca un breakpoint en la línea del if.
+-Comprueba el valor de la condición y determina por qué siempre se ejecuta la misma rama aunque cambies el valor de edad.
+-Corrige el error lógico.
