@@ -26,3 +26,5 @@ Enunciado:
 -Coloca un breakpoint en la línea del if.
 -Comprueba el valor de la condición y determina por qué siempre se ejecuta la misma rama aunque cambies el valor de edad.
 -Corrige el error lógico.
+
+-El error esta en el if: que esta puesto edad=<18 cuando deberia de ser edad>=18
