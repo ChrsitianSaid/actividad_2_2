@@ -119,6 +119,24 @@ Corrige el código.
 
 <img width="561" height="385" alt="image" src="https://github.com/user-attachments/assets/b8f6a54d-2726-4fed-aa32-67f717ab9f53" />
 
+Ejercicio 9: Cálculo misterioso.
+
+Enunciado:
+
+La función debería calcular correctamente el precio final aplicando el descuento, pero los resultados son incoherentes. El segundo log, al descontar el 60% debería devolver 40, no? Sin embargo devuelve 0.
+
+Usa breakpoints para seguir el flujo de ejecución paso a paso.
+Observa los valores intermedios de precioFinal y descuento.
+Este ejercicio no tiene un error de código, en el sentido estricto. Es un "error humano", por así decirlo.
+Encuentra la causa del error y propón una corrección que funcione para los dos caasos de los logs.
+
+El error esta en los datos que se ponen en el segundo console.log. el segundo dato no debería de ser 60 si no 0,6 al ser el descuento, o si era el 60 tendría de ser el 60%, para que se pudiera aplicar el descuento sin llegar a saltar el error o en este caso que los numero den negativo
+
+
+<img width="862" height="401" alt="image" src="https://github.com/user-attachments/assets/2f56fd5c-4e0f-4a96-aec0-a23ef6331745" />
+
+
+
 
 
 
