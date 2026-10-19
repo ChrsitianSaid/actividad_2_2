@@ -30,3 +30,16 @@ Enunciado:
 -El error esta en el if: que esta puesto edad=<18 cuando deberia de ser edad>=18
 
 <img width="394" height="190" alt="image" src="https://github.com/user-attachments/assets/49473336-6d7f-433b-b9f5-d3bab568afa6" />
+
+Ejercicio 3: Return of the Jedi.
+
+Enunciado:
+
+Esta función debería devolver el resultado de una multiplicación, pero no lo hace.
+
+Coloca un breakpoint dentro de la función multiplicar.
+Usa Step Into (F11) para entrar en la función.
+Observa qué ocurre con la variable resultado y con la llamada desde console.log.
+Corrige el código para que funcione como se espera.
+
+- en este caso a la funcion de hace falta el metodo return, el cual si esta en el codigo pero aparece comentado.
