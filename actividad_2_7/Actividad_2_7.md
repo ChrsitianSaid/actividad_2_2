@@ -73,3 +73,6 @@ Identifica el error y corrígelo.
 
 -en el ejercicio 5 el error es un <= dentro del bucle for, cuando deberia de ser <.
 
+<img width="846" height="502" alt="image" src="https://github.com/user-attachments/assets/224d5d77-1b26-4c5f-95cc-739c29f05c1a" />
+
+
