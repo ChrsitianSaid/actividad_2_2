@@ -86,7 +86,7 @@ Inspecciona el valor de num % 2 usando una expresión.
 Averigua por qué el resultado siempre es el mismo.
 Corrige el error.
 
-- Aquí el fallo viene en que la condicion dentro del if deberia de estar entre parentesis "if ((num % 2) = 0)" cumpliendo asi las reglas matematicas donde primero se cumplen los parentesis.
+- Aquí el fallo viene en que la condicion dentro del if deberia de ser así "if num % 2 ==0".
 
 <img width="328" height="248" alt="image" src="https://github.com/user-attachments/assets/40e2331f-2df2-4333-89ca-bcddc5bf5d79" />
 
@@ -115,7 +115,7 @@ Coloca un breakpoint donde creas que será útil.
 Observa qué variable causa el error.
 Corrige el código.
 
-- es un erro de sintaxis, en el codigo esta "console.log(msj)" cuando deberia de ser "console.log(msg)".
+- es un erro de sintaxis, en el codigo esta "let msg = "Hola mundo";" cuando deberia de ser "let msj = "Hola mundo";".
 
 <img width="561" height="385" alt="image" src="https://github.com/user-attachments/assets/b8f6a54d-2726-4fed-aa32-67f717ab9f53" />
 
